@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83532940901",
+    "project_id": "easylang20",
+    "storage_bucket": "easylang20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83532940901:android:f3dd491172604e5bca688c",
+        "android_client_info": {
+          "package_name": "com.alexaded.easylang_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83532940901-3nkcqs4kjlph39h44gactldg20tfru7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AlZzRUfERqnysOmywZ_PzPKkdGUzolU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83532940901-3nkcqs4kjlph39h44gactldg20tfru7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
